@@ -2,7 +2,7 @@
 
 <p align="left"><a href="https://indexresearch.ru/cn/chile-private-atacama-patagonia-2026.html" title="IndexResearch CN research page"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
-**资料截点:** 2026年10月19日 · **版本:** 1.0.0 · **形式:** 无排名的方案对比 · **Methodology:** v0.5
+**资料截点:** 2026年10月19日 · **版本:** 1.0.0 · **形式:** 无排名的方案对比 · **研究方法:** v0.5
 
 **核心结论.** 这6家组织方均公开了涉及阿塔卡马与百内国家公园的旅行方案或服务，但行程天数、包含项目与旅行社合作方式各不相同。研究未向各公司发送统一的测试询价。本报告比较公开资料的具体程度，不评价实际履约质量。
 
@@ -29,7 +29,7 @@
 
 ## 6家组织方及待核实的关键条件
 
-| ID | 旅行社合作 | 公开路线/示例 | 待确认事项 |
+| ID | 组织方 | 公开路线/示例 | 待确认事项 |
 |---|---|---|---|
 | C01 | **Ada Tours** | 智利目录介绍了圣地亚哥—阿塔卡马—百内国家公园的7天线路，以及更长的组合行程。 | 未取得智利专用的代理合同、付款文件或测试订单；智利地区的应急联系时段和航班取消处理办法未公开。 |
 | C19 | **Planeta Travel（Планета Travel）** | 公开的12天行程包括阿塔卡马圣佩德罗、玻利维亚乌尤尼、蓬塔阿雷纳斯、纳塔莱斯港和百内国家公园。 | 智利订单的具体代理合同流程尚未核实；该示例包含玻利维亚，需询问能否调整为纯智利线路。 |
